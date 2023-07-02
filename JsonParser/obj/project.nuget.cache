@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rCKjv+yqy84kScLBO12iiWGwJr2SWuQsETT3wj7T8RY3cmj5tbwTXla5ImL4o8157CqBm8Bj8L/BcmJztcqd0w==",
+  "success": true,
+  "projectFilePath": "D:\\Learnings\\JSONFormatting\\Master\\JsonParser\\JsonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\bin\Debug\netcoreapp3.1\JsonParser.exe
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\bin\Debug\netcoreapp3.1\JsonParser.deps.json
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\bin\Debug\netcoreapp3.1\JsonParser.runtimeconfig.json
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\bin\Debug\netcoreapp3.1\JsonParser.runtimeconfig.dev.json
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\bin\Debug\netcoreapp3.1\JsonParser.dll
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\bin\Debug\netcoreapp3.1\JsonParser.pdb
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.AssemblyInfoInputs.cache
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.AssemblyInfo.cs
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.csproj.CoreCompileInputs.cache
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.dll
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.pdb
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.genruntimeconfig.cache
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learnings\JSONFormatting\JsonParser\JsonParser\obj\Debug\netcoreapp3.1\JsonParser.csproj.CopyComplete
