@@ -11,13 +11,20 @@ namespace JsonParser
     {
         static void Main()
         {
-            Console.WriteLine("Paste your json content below and end with an empty line:");
+            try
+            {
+                Console.WriteLine("Paste your json content below and end with an empty line:");
 
-            // Modify the code below to be stream safe
-            var input = new MemoryStream(Encoding.ASCII.GetBytes(ReadLines()));
-            var output = AttributeFirstJsonTransformer.Transform(input);
-            Console.WriteLine("Output:");
-            Console.WriteLine(new StreamReader(output).ReadToEnd());
+                // Modify the code below to be stream safe
+                var input = new MemoryStream(Encoding.ASCII.GetBytes(ReadLines()));
+                var output = AttributeFirstJsonTransformer.Transform(input);
+                Console.WriteLine("Output:");
+                Console.WriteLine(new StreamReader(output).ReadToEnd());
+            }
+            catch(Exception exception)
+            {
+                Console.WriteLine(exception.Message);
+            }
         }
 
         static string ReadLines()

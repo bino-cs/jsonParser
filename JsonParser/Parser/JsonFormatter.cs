@@ -15,13 +15,19 @@ namespace JsonParser.Parser
         /// <returns></returns>
         public JObject FormatJson(JObject inputItem, JObject resultObject)
         {
-            
-            if (resultObject is null)
-                resultObject = new JObject();
-            resultObject = GetSingleKeyValues(inputItem, resultObject);
-            GetObject(inputItem, resultObject);
-            GetArrayObjects(inputItem, resultObject);
-            return resultObject;
+            try
+            {
+                if (resultObject is null)
+                    resultObject = new JObject();
+                resultObject = GetSingleKeyValues(inputItem, resultObject);
+                GetObject(inputItem, resultObject);
+                GetArrayObjects(inputItem, resultObject);
+                return resultObject;
+            }
+            catch
+            {
+                throw;
+            }
         }
         /// <summary>
         /// Get all array types
